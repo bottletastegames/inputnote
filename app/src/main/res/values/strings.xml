@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ZApp01</string>
+
+    <string name="btn_create">Create</string>
+    <string name="btn_add_field">Add Field</string>
+    <string name="btn_ok">OK</string>
+
+    <string name="edt_form_name">Input Form Name</string>
+    <string name="edt_field_name">Field Name</string>
+
+    <string name="rdo_integer">Integer (-1, 2 ..)</string>
+    <string name="rdo_real_num">Real Num. (-1.0, 1.1 ..)</string>
+    <string name="rdo_text">Text</string>
+    <string name="rdo_datetime">DateTime</string>
+
+    <string name="tst_error_required">Error : Input Required.</string>
+    <string name="tst_error_invalid">Error : Input Invalid.</string>
+    <string name="tst_error_exists">Error : Already exists.</string>
+    <string name="tst_field_added">Field Added.</string>
+    <string name="tst_input_form_created">Input Form Created.</string>
+</resources>
